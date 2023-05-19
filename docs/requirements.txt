@@ -1,2 +1,0 @@
-Sphinx>=3.0,<4.0
-recommonmark>=0.7,<0.8
